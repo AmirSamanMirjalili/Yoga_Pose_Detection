@@ -1,4 +1,4 @@
-# introducion 
+# Introducion 
 A project that can be used to detect Yoga poses from human motion
 
 # Under Developement ...
