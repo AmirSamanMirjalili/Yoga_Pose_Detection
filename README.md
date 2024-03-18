@@ -30,8 +30,8 @@ The yoga pose analysis component leverages the MediaPipe framework for pose esti
 ## Setup and Installation
 1. Ensure Python 3.x is installed on your system.
 2. Install necessary Python libraries using `pip install -r requirements.txt` .
-<!--3. Download the pre-trained YOLOv3 model weights and configuration files, and place them in the specified directory.-->
-<!--4. For the yoga pose analysis, ensure you have the TensorFlow model saved and accessible by the script.-->
+3. Download the pre-trained YOLOv3 model weights and configuration files, and place them in the specified directory.
+4. For the yoga pose analysis, ensure you have the TensorFlow model saved and accessible by the script.
 
 ## Running the Project
 - For human detection, run the script designed for either image input or real-time video stream.
