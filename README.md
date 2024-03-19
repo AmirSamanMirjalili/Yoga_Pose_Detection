@@ -10,6 +10,9 @@ The human detection part of the project utilizes the YOLOv3 (You Only Look Once 
 - Utilization of pre-trained YOLOv3 model for efficient human detection.
 - Processing of images and real-time video streams to detect human presence.
 - Application of computer vision techniques for image preprocessing and analysis.
+## about dataset
+Yoga is a popular practice that is very effective for reducing anxiety and promoting relaxation. In yoga, there are many poses, but the very famous ones include the "downward dog pose," the "goddess pose," the "tree pose," the "plank pose," and the "warrior pose." The dataset is divided into two subdirectories: "train" and "test," and each of these directories contains 5 subdirectories related to 5 classes of yoga poses. The images have been extracted using the Bing API task, so the accuracy of the images used in the dataset may differ from the original images (parts of the images may include watermarks, text, or other signs).
+for more visit this URL ![alt text]([URL_of_the_image](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset).
 
 ## Performing the Correct Movement in Yoga
 The yoga pose analysis component leverages the MediaPipe framework for pose estimation and TensorFlow for pose classification. It aims to guide users in performing yoga poses correctly by providing real-time feedback.
