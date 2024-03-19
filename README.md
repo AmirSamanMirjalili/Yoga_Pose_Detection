@@ -36,6 +36,8 @@ The yoga pose analysis component leverages the MediaPipe framework for pose esti
 ## Running the Project
 - For human detection, run the script designed for either image input or real-time video stream.
 - For yoga pose analysis and correction, run the script that initializes the MediaPipe pose estimation and starts the webcam feed for real-time analysis.
+- ![result1]([images/example.png](https://github.com/AmirSamanMirjalili/Yoga_Pose_Detection/blob/master/result1.PNG))
+- ![result2]([images/example.png](https://github.com/AmirSamanMirjalili/Yoga_Pose_Detection/blob/master/result2.PNG))
 ## Conclusion
 This project demonstrates the integration of advanced computer vision and deep learning techniques for practical applications such as human detection and real-time yoga pose correction. It showcases the power of combining different technologies to create an interactive and helpful tool for yoga practitioners.
 
